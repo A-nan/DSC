@@ -1,4 +1,0 @@
-DSC
-===
-
-for test
